@@ -1,0 +1,50 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0rem;
+    text-align: center;
+}
+nav{
+    width: 80rem;
+    height: 2rem;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 2rem;
+    padding: 20px;
+}
+button{
+    border-radius: 1rem;
+    height: 2rem;
+    width: 9rem;
+}
+#violet{
+    background-color: violet;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+}
+#blue{
+    background-color: rgb(38, 23, 206);
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+}
+#yellow{
+    background-color: yellow;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+}
+#lavender{
+    background-color: lavender;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+}
+#green{
+    background-color: green;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+}
+#olive{
+    background-color: olive;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+}
